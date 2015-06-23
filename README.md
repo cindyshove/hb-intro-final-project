@@ -2,6 +2,12 @@
 Hackbright final project
 Read_me.md
 
+adding minor changes:
+add
+commit
+push
+
+
 my game is a black jack gambling game
 Opening cash balance is $100
 Each opening bid is $10.
